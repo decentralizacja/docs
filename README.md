@@ -4,7 +4,7 @@
 
 # Dokumentacja docs.decentralizacja.pl
 + [Dokumentacja](https://docs.decentralizacja.pl/)
-+ [www | Landing page: www.decentralizacja.pl](https://www.decentralizacja.pl/)
-+ https://logo.decentralizacja.pl/
++ [Landing page: www.decentralizacja.pl](https://www.decentralizacja.pl/)
++ [Logotyp decentralizacja.pl](https://logo.decentralizacja.pl/)
 
 
