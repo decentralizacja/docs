@@ -3,3 +3,8 @@
 # [Dokumentacja](https://docs.decentralizacja.pl/)
 
 Dokumentacja docs.decentralizacja.pl
+
++ [www | Landing page: www.decentralizacja.pl](https://www.decentralizacja.pl/)
++ https://logo.decentralizacja.pl/
+
+
