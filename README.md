@@ -10,3 +10,5 @@
 
 ---
 + [edit](https://github.com/decentralizacja/docs/edit/main/README.md)
+
+  https://github.com/decentralizacja/docs.git
