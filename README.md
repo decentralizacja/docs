@@ -8,3 +8,5 @@
 + [Logotyp decentralizacja.pl](https://logo.decentralizacja.pl/)
 
 
+---
++ [edit](https://github.com/decentralizacja/docs/edit/main/README.md)
